@@ -70,7 +70,7 @@ section .title::after{
     position: absolute;
     bottom: -8px;
     left: 50%;
-    font-size: 20px;
+    font-size: 15px;
     color: crimson;
     padding: 0 5px;
     background: #fff;
@@ -189,7 +189,7 @@ section .title::after{
     margin-left: 0px;
 }
 .home .home-content .text-3{
-    font-size: 75px;
+    font-size: 70px;
     font-weight: 600;
     margin: 5px;
     margin-left: -3px;
